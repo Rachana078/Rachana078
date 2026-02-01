@@ -28,9 +28,6 @@ I’ve worked across **frontend, backend, cloud, and APIs**, and I’m now focus
 **Cloud & DevOps**  
 `Azure` `Google Cloud` `Docker` `Git` `REST APIs`
 
-**AI / ML (Learning & Applying)**  
-`Python` `ML Fundamentals` `GenAI APIs`
-
 ---
 
 ### 🌌 Featured Projects
