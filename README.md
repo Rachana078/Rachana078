@@ -2,9 +2,9 @@
 
 🎓 Master’s in Computer Science @ California State University, Fullerton (May 2026)  
 💼 Currently Information Technology Intern @Associated Students Inc., CSUF (Feb 2025 - Present)      
-💼 Former Software Engineer @ Capgemini (Feb 2022 - Jul 2024) 
-🧠 Exploring AI/ML, Full-Stack Development & Intelligent Systems  
-🌱 Currently building projects that blend **practical engineering + smart automation**
+💼 Former Software Engineer @ Capgemini (Feb 2022 - Jul 2024)        
+🧠 Exploring AI/ML, Full-Stack Development & Intelligent Systems         
+🌱 Currently building projects that blend **practical engineering + smart automation**     
 
 ---
 
