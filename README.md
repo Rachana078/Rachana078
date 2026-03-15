@@ -27,7 +27,7 @@ I’ve worked across **frontend, backend, cloud, and APIs**, and I’m now focus
 `MySQL` `PostgreSQL` `MongoDB`
 
 **Cloud & DevOps**  
-`Azure` `Google Cloud` `Docker` `Git` `REST APIs`
+`Azure` `Google Cloud` `AWS` `Docker` `Git` `REST APIs`
 
 ---
 
